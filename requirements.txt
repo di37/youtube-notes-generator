@@ -1,0 +1,4 @@
+python-dotenv==1.0.1
+google-generativeai==0.7.2
+streamlit==1.36.0
+yt-dlp==2023.11.14
